@@ -1,11 +1,14 @@
 /**index.wxss**/
 .header{
-  font-size: 24px;
   text-align: center;
-  padding-top: 42px;
   color: #fff;
   display: flex;
+  align-items: center;
+  font-size: 48rpx;
+  justify-content: space-between;
+  font-weight: bold;
 }
 .pglog{
-  width: 
+  width: 182rpx;
+  margin: 0 16rpx;
 }

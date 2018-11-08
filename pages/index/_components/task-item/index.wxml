@@ -1,0 +1,24 @@
+<!--任务子容器-->
+<view
+  class="task-item-container {{positionype==0?'':'right'}}">
+  <view
+    class="task-item-header">
+    <view
+      class="task-item-tag">
+    </view>
+    <view>
+      <view class="task-item-header-img">
+      </view>
+      <view class="task-item-header-title">
+         新秀站
+      </view>
+    </view>
+  </view>
+  <view
+    class="task-item-content">
+    参加五次道馆对决{{positionype}}
+  </view>
+  <view
+    class="task-item-prize">
+  </view>
+</view>
