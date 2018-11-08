@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view
+    class="header">
+    <image
+    class="pglog"
+    src="../../img/pglog.png"></image>
+    <view>
+    新秀每日任务
+    </view>
+  </view>
+</view>
